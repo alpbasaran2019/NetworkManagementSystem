@@ -15,6 +15,7 @@ namespace NetworkManagementSystem
         [STAThread]
         static void Main()
         {
+            string a = "sadsad";
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
